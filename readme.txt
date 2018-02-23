@@ -4,6 +4,8 @@
 
 **Caveat:** Ensure that the template match with the output format.
 
+Some of the folloiwng work with mdfile.py.  See [https://github.com/faisalqureshi/webify](https://github.com/faisalqureshi/webify).  mdfile.py pre-processes YAML front-matter before passing the file contents onto pandoc. 
+
 ---
 to: pdf
 title: 
